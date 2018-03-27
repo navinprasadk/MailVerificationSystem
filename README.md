@@ -1,5 +1,6 @@
-<----------  Mail Verification System  ---------->
-
+# MailVerificationSystem
+  - This microservice will send the verification code to the client's mail id and verify it. 
+  - The mail has been sent using nodemailer package
 
 Steps to Start with Boilerplate :
   - open command prompt / terminal from the Boilerplate root directory
